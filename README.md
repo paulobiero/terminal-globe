@@ -1,5 +1,5 @@
 # terminal-globe
-this is the globe of in the terminal
+this is the globe in the terminal
 
 ## getting started
 
